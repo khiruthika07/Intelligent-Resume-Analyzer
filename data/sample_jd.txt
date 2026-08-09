@@ -1,0 +1,18 @@
+JOB TITLE: Senior AI & Python Developer
+
+OVERVIEW:
+We are seeking an experienced Senior AI & Python Developer to join our software team to build scalable machine learning systems, database workflows, and cloud applications.
+
+REQUIRED SKILLS:
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Docker
+- Git
+
+EXPERIENCE REQUIREMENT:
+- 3+ years of professional software development experience.
+
+EDUCATION QUALIFICATION:
+- Bachelor's degree (B.Tech / B.E. / B.Sc / BCA) or Master's degree (M.Tech / MS / MCA) in Computer Science, IT, or Engineering.

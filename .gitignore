@@ -1,0 +1,16 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output & Reports
+results/*.csv
+results/reports/*.txt
+
+# OS Junk
+Thumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

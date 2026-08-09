@@ -1,0 +1,24 @@
+RAHUL RAJ
+Email: rahul.raj@example.com | Phone: +91 98123 45678 | Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 3 years of work experience specializing in Python development, REST APIs, and machine learning solutions. Proficient in SQL databases, Docker, Git, and full-stack integration.
+
+WORK EXPERIENCE
+Software Developer | DataSoft Systems
+2021 - Present (3 years experience)
+- Built enterprise web applications and REST APIs using Python, Django, and JavaScript / React.
+- Developed predictive data models using Machine Learning and Scikit-Learn.
+- Designed database schemas in MySQL and written complex SQL analytical queries.
+- Containerized applications using Docker and utilized Git for version control.
+- Demonstrated strong Problem Solving skills and analytical thinking.
+
+EDUCATION
+B.E. in Information Technology
+Osmania University | Graduated: 2021
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, JavaScript, C++
+- Web & APIs: REST API, React, Django, HTML, CSS
+- Data & AI: Machine Learning, Data Analysis, Scikit-Learn, Pandas, NumPy
+- Tools & Practices: Docker, Git, GitHub, MySQL, Agile, Problem Solving, Communication

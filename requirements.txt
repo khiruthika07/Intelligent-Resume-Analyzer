@@ -1,0 +1,5 @@
+# Intelligent Resume Analyzer - Requirements
+# This project relies strictly on Python 3 Standard Library + Tkinter.
+# NO external pip dependencies are needed!
+#
+# Recommended Python Version: Python 3.8 or higher.

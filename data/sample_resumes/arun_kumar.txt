@@ -1,0 +1,21 @@
+ARUN KUMAR
+Email: arun.kumar@example.com | Phone: +91 96543 21098 | Location: Chennai, India
+
+SUMMARY
+Junior Developer Intern with 2 years of experience in basic web design, Python scripting, and SQL database management.
+
+WORK EXPERIENCE
+Junior Developer Intern | Web Tech Solutions
+2023 - Present (2.0 years experience)
+- Assisted in building web pages using HTML, CSS, and basic REST APIs.
+- Wrote basic Python scripts for automated file formatting.
+- Executed SQL database queries and managed spreadsheets in Excel.
+
+EDUCATION
+Diploma in Computer Applications
+State Board of Technical Education | Graduated: 2023
+
+SKILLS
+- Basic Python, SQL, HTML, CSS, REST API
+- MS Excel, MS Word
+- Communication, Problem Solving

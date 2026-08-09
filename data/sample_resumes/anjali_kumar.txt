@@ -1,0 +1,26 @@
+ANJALI KUMAR
+Email: anjali.kumar@example.com | Phone: +91 98765 43210 | Location: Bangalore, India
+LinkedIn: linkedin.com/in/anjalikumar-ai | GitHub: github.com/anjalikumar
+
+PROFESSIONAL SUMMARY
+Results-driven Senior AI & Python Developer with 5 years of experience building scalable artificial intelligence applications, REST APIs, and machine learning models. Expert in Python, SQL, Deep Learning, Docker containerization, and Git workflow.
+
+WORK EXPERIENCE
+Senior AI & Backend Developer | Tech AI Innovations Ltd
+2019 - Present (5 years of experience)
+- Engineered scalable backend microservices using Python and REST APIs handling over 2M requests daily.
+- Implemented state-of-the-art Machine Learning and Deep Learning vision & NLP models using PyTorch and TensorFlow.
+- Optimized database queries using PostgreSQL and SQL, improving pipeline speed by 40%.
+- Containerized applications using Docker and deployed cloud microservices on AWS with Git CI/CD.
+- Mentored junior engineers and demonstrated exceptional Problem Solving and Leadership skills.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+National Institute of Technology (NIT) | Graduated: 2019
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Java, C++, SQL
+- AI & ML: Machine Learning, Deep Learning, Artificial Intelligence, PyTorch, TensorFlow, Scikit-Learn, NLP
+- DevOps & Cloud: Docker, Git, GitHub, AWS, Linux, CI/CD
+- Web & Backend: REST API, FastAPI, Flask, PostgreSQL, MySQL
+- Core Concepts: Data Structures, Algorithms, Problem Solving, Communication
